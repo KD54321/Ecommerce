@@ -1,6 +1,6 @@
 # E-Commerce Full-Stack Boilerplate
 
-A complete full-stack e-commerce application built with React, Node.js, Express, and MongoDB. This boilerplate provides a solid foundation for building modern e-commerce applications with all essential features.
+A complete full-stack e-commerce application built with React, Node.js, Express, and MongoDB.
 
 ##  Features
 
